@@ -1,0 +1,14 @@
+{
+  "name": "comhard-support-desk-system",
+  "version": "1.0.0",
+  "description": "Support Desk System - Full-Stack Engineering Assessment for Comhard Technologies",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "dev": "node server/server.js"
+  },
+  "author": "Adarsh Sharma",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+# Dependencies (Heavy folders)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production Build Output
+dist/
+build/
+
+# Environment Variables & Logs
+.env
+*.log
+npm-debug.log*
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
