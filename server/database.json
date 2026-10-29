@@ -62,6 +62,19 @@
   ],
   "tickets": [
     {
+      "id": "tkt_5a47cb65",
+      "ticket_number": "TKT-2026-1005",
+      "title": "G",
+      "description": "sdfd",
+      "category": "Cloud Infrastructure",
+      "priority": "medium",
+      "status": "open",
+      "customer_id": "usr_cust1",
+      "customer_name": "Adarsh Sharma",
+      "customer_email": "customer@gmail.com",
+      "created_at": "2026-10-29T11:59:26.428Z"
+    },
+    {
       "id": "tkt_4c7039e0",
       "ticket_number": "TKT-2026-1004",
       "title": "Testing cocloud storage sync",
